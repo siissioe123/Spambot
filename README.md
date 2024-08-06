@@ -24,7 +24,7 @@ To install Spambot, follow these steps:
 1. Navigate to the script folder in the terminal or powershell/command prompt.
 2. Launch the script with Python by executing:
     ```
-    python Spambot.py
+    python main.py
     ```
 ## 🔄 Compatibility
 - This program is compatible with Windows, macOS, and GNU/Linux operating systems. 💻
