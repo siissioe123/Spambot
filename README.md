@@ -38,7 +38,7 @@ To install Spambot, follow these steps:
 If you encounter bugs or issues while using Spambot, please report them by opening an issue on the GitHub repository. Make sure to include all necessary details to reproduce the problem.
 
 ## Author 🤓
-unitconverter was developed by [Siissioe123](https://github.com/siissioe123).
+Spambot was developed by [Siissioe123](https://github.com/siissioe123).
 
 ## License 📜
 This software is released under the [GPL-3.0 license](LICENSE), [(Gnu General Public License)](https://www.gnu.org/licenses/gpl-3.0.html), made by the [the FSF](https://www.fsf.org).
